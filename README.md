@@ -2,9 +2,9 @@
 
 <table>
   
-**In this project We will build our First Smart Contract on Ethereum Block** <br></br>
+**In this project we will build our First Smart Contract on Ethereum Blockchain and it will be really amazing.** <br></br>
 
-**We are gonna visualize our Smart Contract and all the functionalities using Truffle Ganache**<br></br>
+**We are gonna set up My Ether Wallet and then visualize our Smart Contract and all the functionalities using Truffle Ganache**<br></br>
 
 **Before jumping to the code lets understand Blockchain, Ethereum, Truffle Ganache and Smart Contract First**...<br></br>
 
