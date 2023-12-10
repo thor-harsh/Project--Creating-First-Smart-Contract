@@ -6,7 +6,7 @@
 
 **We are gonna visualize our Smart Contract and all the functionalities using Truffle Ganache**<br></br>
 
-**Before jumping to the code lets understand Blockchain, Etherum, Truffle Ganache and Smart Contract First**...<br></br>
+**Before jumping to the code lets understand Blockchain, Ethereum, Truffle Ganache and Smart Contract First**...<br></br>
 
 **What is Blockchain**?<br></br>
 A blockchain is a distributed database or ledger shared among a computer network's nodes. They are best known for their crucial role in cryptocurrency systems for maintaining a secure and decentralized record of transactions, but they are not limited to cryptocurrency uses. Blockchains can be used to make data in any industry immutable—the term used to describe the inability to be altered.<br></br>
@@ -18,11 +18,11 @@ In Bitcoin’s case, blockchain is decentralized so that no single person or gro
 Decentralized blockchains are immutable, which means that the data entered is irreversible. For Bitcoin, transactions are permanently recorded and viewable to anyone.<br></br>
 
 
-**What is CryptoCurrency?** <br></br>
+**What is Ethereum?** <br></br>
 
-A cryptocurrency is a digital currency, which is an alternative form of payment created using encryption algorithms. The use of encryption technologies means that cryptocurrencies function both as a currency and as a virtual accounting system. To use cryptocurrencies, you need a cryptocurrency wallet.<br></br>
-A cryptocurrency, crypto-currency, or crypto is a digital currency designed to work as a medium of exchange through a computer network that is not reliant on any central authority, such as a government or bank, to uphold or maintain it.<br></br>
+Ethereum is a decentralized blockchain with smart contract functionality. Ether is the native cryptocurrency of the platform. Among cryptocurrencies, ether is second only to bitcoin in market capitalization. It is open-source software. Ethereum was conceived in 2013 by programmer Vitalik Buterin.Ethereum is a technology that's home to digital money, global payments, and applications. The community has built a booming digital economy, bold new ways for creators to earn online, and so much more. It's open to everyone, wherever you are in the world – all you need is the internet<br></br>
 
+**What is Truffle Ganache?** <br></br>
 
 
 
